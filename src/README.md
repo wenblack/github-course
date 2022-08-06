@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Curso de Github (Rocket Seat Explorer)
 ___
 ## Repósitório teste para memorizar conhecimentos de Git e Github
+=======
+#Curso de Github (Rocket Seat Explorer)
+___
+##Repósitório teste para memorizar conhecimentos de Git e Github
+>>>>>>> e94e2880eccaf6f436cb587ada6efa0f7bb5b298
 ---
 ### Comandos aprendidos :
 
