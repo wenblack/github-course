@@ -24,9 +24,6 @@ function App() {
           Edite o arquivo <code>src/App.tsx</code> e salve para testar
         </p>
       </div>
-      <p className="read-the-docs">
-        Clique nos logos do Vite e do React para aprender mais
-        </p>
     </div>
   )
 }
